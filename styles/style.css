@@ -46,16 +46,5 @@ a:visited{
 	text-align: center;
 }
 
-p.one {
-    border-style: solid;
-    border-color: black;
-    border-width: 3px;
-}
-
-p.two {
-    border-style: solid;
-    border-color: black;
-    border-width: 1px;
-}
 
 
