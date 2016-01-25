@@ -1,10 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);
-
-@import url(https://fonts.googleapis.com/css?family=Arvo);
+@import url(https://fonts.googleapis.com/css?family=Sanchez);
 
 
 header {
-	font-family: "Arvo", "serif";
+	font-family: "Sanchez", "serif";
 	font-weight: bold;
 	border-top: 4px solid;
 	padding-top: 50px;
@@ -33,21 +32,21 @@ p {
 }
 
 h1 {
-	font-family: "Arvo", "serif";
+	font-family: "Sanchez", "serif";
 	color: #000000;
 	font-size: 2em;
 	text-align: center;
 }
 
 h2 {
-	font-family: "Arvo", "serif";
+	font-family: "Sanchez", "serif";
 	color: #000000;
 	font-size: 1.4em;
 	text-align: left;
 }
 
 h3 {
-	font-family: "Arvo", "serif";
+	font-family: "Sanchez", "serif";
 	color: #000000;
 	font-size: 1.2em;
 	text-align: left;
@@ -55,7 +54,7 @@ h3 {
 }
 
 h4 {
-	font-family: "Arvo", "serif";
+	font-family: "Sanchez", "serif";
 	font-weight: normal;
 	color: #000000;
 	font-size: 1.1em;
@@ -76,7 +75,7 @@ ul{
 }
 
 link {
-	font-family: "Arvo", "serif";
+	font-family: "Sanchez", "serif";
 	font-weight: bold;
 }
 
